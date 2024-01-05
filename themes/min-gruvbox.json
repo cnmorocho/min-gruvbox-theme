@@ -60,7 +60,7 @@
     "statusBar.foreground": "#fbf1c7",
     "statusBar.noFolderBackground": "#1A1A1A",
     "statusBarItem.remoteForeground": "#b8bb27",
-    "statusBarItem.remoteHoverForeground": "#fbf1c7",
+    "statusBarItem.remoteHoverForeground": "#1A1A1A",
     "statusBarItem.remoteBackground": "#1a1a1a00",
     "statusBarItem.remoteHoverBackground": "#b8bb27",
     "statusBarItem.prominentBackground": "#fafafa1a",
