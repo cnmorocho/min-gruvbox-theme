@@ -1,6 +1,6 @@
 {
-  "name": "min-gruvbox",
-  "displayName": "min-gruvbox",
+  "name": "min-gruvbox-theme",
+  "displayName": "Min Gruvbox Theme",
   "description": "A minimalistic and flat theme inspired by Gruvbox and Min for VS Code.",
   "publisher": "cnmorocho",
   "author": {
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Min Gruvbox",
+        "label": "Min Gruvbox Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/min-gruvbox.json"
       }
