@@ -1,7 +1,11 @@
 {
   "name": "min-gruvbox",
   "displayName": "min-gruvbox",
-  "description": "",
+  "description": "A minimalistic and flat gruvbox inspired theme for VS Code.",
+  "publisher": "cnmorocho",
+  "author": {
+    "name": "Carlos Nahuel Morocho"
+  },
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
