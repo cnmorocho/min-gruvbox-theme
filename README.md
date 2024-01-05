@@ -7,7 +7,7 @@
 A minimalistic and warm theme for VS Code inspired by **[Gruvbox](https://github.com/morhetz/gruvbox)**, highlighting soothing pastel colors with the simplicity reminiscent of the **[Min](https://github.com/miguelsolorio/min-theme)** theme.
 
 ![preview-theme](./screenshot-theme.png)
-<sub>Product icon: **[Fluent Icons](https://github.com/miguelsolorio/vscode-fluent-icons)** - Icon theme: **[Symbols](https://github.com/miguelsolorio/vscode-symbols)** </sub>
+<sub>Product icon: **[Fluent Icons](https://github.com/miguelsolorio/vscode-fluent-icons)** - Icon theme: **[Symbols](https://github.com/miguelsolorio/vscode-symbols)** - Font: **[Monaspace Neon](https://github.com/githubnext/monaspace)**</sub>
 
 </div>
 
