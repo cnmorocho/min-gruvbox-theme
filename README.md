@@ -11,6 +11,11 @@ A minimalistic and warm theme for VS Code inspired by **[Gruvbox](https://github
 
 </div>
 
+## Installation
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=cnmorocho.min-gruvbox-theme) or search for `cnmorocho.min-gruvbox-theme` in VS Code Extensions.
+2. Click on the `Install` button.
+3. Navigate to `File` > `Preferences` > `Theme` > `Color Theme` and select `Min Gruvbox`
+
 ## About Color Palette
 > Designed as a bright theme with pastel **retro groove** colors. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes. - **[morhetz](https://github.com/morhetz/gruvbox)**
 
