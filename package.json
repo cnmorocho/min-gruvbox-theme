@@ -7,8 +7,10 @@
     "name": "Carlos Nahuel Morocho"
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/cnmorocho/min-gruvbox-theme.git"
   },
+  "icon": "min-gruvbox-theme-logo.png",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
