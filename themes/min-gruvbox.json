@@ -177,7 +177,19 @@
     "dropdown.border": "#3c3836",
     "dropdown.listBackground": "#1A1A1A",
     "toolbar.hoverBackground": "#1A1A1A",
-    "icon.foreground": "#a89984"
+    "icon.foreground": "#a89984",
+    "minimap.findMatchHighlight": "#a9b665",
+    "minimap.selectionHighlight": "#a9b665",
+    "minimap.errorHighlight": "#ea6962",
+    "minimap.warningHighlight": "#d8a657",
+    "editorGutter.modifiedBackground": "#d8a657",
+    "editorGutter.addedBackground": "#a9b665",
+    "editorGutter.deletedBackground": "#ea6962",
+    "editorWidget.background": "#1a1a1a",
+    "editorWidget.border": "#1a1a1a",
+    "editorWidget.foreground": "#d4be98",
+    "settings.headerForeground": "#a9b665",
+    "settings.modifiedItemIndicator": "#a9b665"
   },
 	"tokenColors": [
     {
