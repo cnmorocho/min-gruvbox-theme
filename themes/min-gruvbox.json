@@ -174,7 +174,7 @@
     "dropdown.listBackground": "#1A1A1A",
     "toolbar.hoverBackground": "#1A1A1A",
     "icon.foreground": "#a89984",
-    "minimap.findMatchHighlight": "#a9b665",
+    "minimap.findMatchHighlight": "#fbf1c7",
     "minimap.selectionHighlight": "#a89984",
     "minimap.errorHighlight": "#ea6962",
     "minimap.warningHighlight": "#d8a657",
