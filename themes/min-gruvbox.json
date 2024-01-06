@@ -188,7 +188,11 @@
     "editorWidget.border": "#1a1a1a",
     "editorWidget.foreground": "#d4be98",
     "settings.headerForeground": "#a9b665",
-    "settings.modifiedItemIndicator": "#a9b665"
+    "settings.modifiedItemIndicator": "#a9b665",
+    "editorLink.activeForeground": "#a9b665",
+    "breadcrumb.foreground": "#a89984",
+    "breadcrumb.activeSelectionForeground": "#a9b665",
+    "breadcrumb.focusForeground": "#a9b665"
   },
 	"tokenColors": [
     {
