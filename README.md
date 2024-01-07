@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="min-gruvbox-theme-logo.png" width="140">
+<img src="min-gruvbox-icon.png" width="140">
 
 # Min Gruvbox Theme
 
