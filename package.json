@@ -12,7 +12,7 @@
     "url": "https://github.com/cnmorocho/min-gruvbox-theme.git"
   },
   "icon": "min-gruvbox-theme-logo.png",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.85.0"
   },
