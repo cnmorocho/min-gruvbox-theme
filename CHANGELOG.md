@@ -9,6 +9,8 @@
 - Restored scrollbar color to default, as the transparency was making part of the minimap appear opaque.
 - Breadcrumb foreground now respects the color palette.
 - The editor link on hover now has a white color.
+- Normalize outline view icon color
+- Normalize debug icon color
 ## v0.0.6 - 2024-01-05
 ### Features
 - Icons now respects the color palette.
