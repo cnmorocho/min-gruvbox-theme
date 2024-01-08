@@ -1,3 +1,6 @@
+## v0.0.8 - 2024-01-07
+### Fixes
+- Minimap and editor gutter for modified line color change to yellow
 ## v0.0.7 - 2024-01-07
 ### Features
 - Additional colors were defined for the minimap gutter and word matching.
