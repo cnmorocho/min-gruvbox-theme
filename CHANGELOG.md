@@ -1,3 +1,7 @@
+## v0.0.9 - 2024-01-24
+### Fixes
+- Changed the background color of merge highlight
+- Changed the background color when on hover workbench elements
 ## v0.0.8 - 2024-01-07
 ### Fixes
 - Minimap and editor gutter for modified line color change to yellow
