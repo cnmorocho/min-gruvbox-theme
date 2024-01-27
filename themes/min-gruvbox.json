@@ -2074,23 +2074,23 @@
     },
     {
       "name": "JSON grey",
-      "scope": "punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json, punctuation.separator.dictionary.key-value.json, punctuation.definition.string.begin.json, punctuation.definition.string.end.json, punctuation.separator.dictionary.pair.json, punctuation.separator.array.json",
+      "scope": "punctuation.separator.dictionary.key-value.json,  punctuation.separator.dictionary.pair.json, punctuation.separator.array.json",
       "settings": {
         "foreground": "#928374"
       }
     },
     {
-      "name": "JSON orange",
-      "scope": "support.type.property-name.json",
+      "name": "JSON white",
+      "scope": "support.type.property-name.json, punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json,",
       "settings": {
         "foreground": "#D4BE98"
       }
     },
     {
-      "name": "JSON green",
-      "scope": "string.quoted.double.json",
+      "name": "JSON yellow",
+      "scope": "string.quoted.double.json, punctuation.definition.string.begin.json, punctuation.definition.string.end.json,",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d8a657"
       }
     },
     {
