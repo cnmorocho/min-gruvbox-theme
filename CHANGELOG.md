@@ -1,3 +1,11 @@
+## v0.0.10 - 2024-01-27
+### Fixes
+- Changed the color of token punctuation names to white for JSON files.
+- Changed the color of token punctuation definitions and strings to yellow for JSON files.
+- Changed the color of variables and objects to white for TypeScript files.
+- Fixed the issue where inactive indent guides were not showing.
+- Updated the color of inactive and active number line foreground colors.
+### Fixes
 ## v0.0.9 - 2024-01-24
 ### Fixes
 - Changed the background color of merge highlight
