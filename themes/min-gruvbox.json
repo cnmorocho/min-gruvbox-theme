@@ -2,8 +2,8 @@
 	"name": "Min Gruvbox",
 	"type": "dark",
 	"colors": {
-    "editorIndentGuide.activeBackground": "#383838",
-    "editorIndentGuide.background": "#1A1A1A",
+    "editorIndentGuide.background": "#a8998440",
+    "editorIndentGuide.activeBackground": "#a8998460",
     "editorRuler.foreground": "#1A1A1A",
     "editorLineNumber.foreground": "#a89984",
     "editorLineNumber.activeForeground": "#fbf1c7",
