@@ -793,7 +793,7 @@
     },
     {
       "name": "TypeScript white",
-      "scope": "entity.name.type.module.ts",
+      "scope": "entity.name.type.module.ts, variable.other.readwrite.ts, variable.other.object.ts",
       "settings": {
         "foreground": "#d4be98"
       }
