@@ -194,7 +194,7 @@
     "editorGutter.addedBackground": "#a9b665",
     "editorGutter.deletedBackground": "#ea6962",
     "editorWidget.background": "#1a1a1a",
-    "editorWidget.border": "#1a1a1a",
+    "editorWidget.border": "#505050",
     "editorWidget.foreground": "#d4be98",
     "settings.headerForeground": "#a9b665",
     "settings.modifiedItemIndicator": "#a9b665",
