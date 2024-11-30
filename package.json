@@ -25,6 +25,11 @@
         "label": "Min Gruvbox",
         "uiTheme": "vs-dark",
         "path": "./themes/min-gruvbox.json"
+      },
+      {
+        "label": "Min Gruvbox Pale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-gruvbox-pale.json"
       }
     ]
   },
