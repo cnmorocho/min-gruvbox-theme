@@ -28,6 +28,11 @@
                 "label": "Min Gruvbox",
                 "uiTheme": "vs-dark",
                 "path": "./themes/min-gruvbox.json"
+            },
+            {
+                "label": "Min Gruvbox Dark High Contrast",
+                "uiTheme": "hc-black",
+                "path": "./themes/min-gruvbox-hc.json"
             }
         ]
     },

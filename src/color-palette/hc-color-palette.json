@@ -1,0 +1,11 @@
+{
+    "Background": "#2A2A2A",           // Fondo se mantiene igual
+    "Foreground 0": "#e8d1a9",         // Un poco más brillante que #e0cba0
+    "Red": "#f47c74",                  // Un poco más brillante que #f0756e
+    "Orange": "#f3a062",               // Un poco más brillante que #f0945a
+    "Yellow": "#edbd73",               // Un poco más brillante que #e8b367
+    "Green": "#c0d488",                // Un poco más brillante que #b5c97a
+    "Aqua": "#a1cc9b",                 // Un poco más brillante que #95c28e
+    "Blue": "#96c8c1",                 // Un poco más brillante que #8abeb8
+    "Purple": "#e29bc0"                // Un poco más brillante que #dd92b0
+}
