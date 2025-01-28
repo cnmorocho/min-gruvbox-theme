@@ -1,32 +1,38 @@
 {
-  "name": "min-gruvbox-theme",
-  "displayName": "Min Gruvbox Theme",
-  "description": "A minimalistic and warm theme.",
-  "publisher": "cnmorocho",
-  "author": {
-    "name": "Carlos Nahuel Morocho"
-  },
-  "homepage": "https://github.com/cnmorocho/min-gruvbox-theme.git",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cnmorocho/min-gruvbox-theme.git"
-  },
-  "icon": "min-gruvbox-icon.png",
-  "version": "0.0.10",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Min Gruvbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/min-gruvbox.json"
-      }
-    ]
-  },
-  "license": "MIT"
+    "name": "min-gruvbox-theme",
+    "displayName": "Min Gruvbox Theme",
+    "description": "A minimalistic and warm theme.",
+    "publisher": "cnmorocho",
+    "author": {
+        "name": "Carlos Nahuel Morocho"
+    },
+    "homepage": "https://github.com/cnmorocho/min-gruvbox-theme.git",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cnmorocho/min-gruvbox-theme.git"
+    },
+    "icon": "min-gruvbox-icon.png",
+    "version": "0.0.10",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "scripts": {
+        "format": "prettier --write **/*.json"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Min Gruvbox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/min-gruvbox.json"
+            }
+        ]
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "prettier": "^3.4.2"
+    }
 }
